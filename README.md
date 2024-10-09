@@ -4,9 +4,6 @@
 
 https://github.com/user-attachments/assets/912d495e-aaed-469c-81cd-293aab334c0e
 
-
-
-
 **This project was completed in four stages:**
 
 + Activating and utilizing the laptop's built-in camera.
