@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/912d495e-aaed-469c-81cd-293aab334c0e
 + Outputting the results as typed words.
 
 **Note:**
+
 To enhance the system's performance and accuracy, a supplementary camera can be employed for depth perception and dimensional measurements.
 The secondary camera should be oriented orthogonally to the primary camera.
 
@@ -19,5 +20,3 @@ The secondary camera should be oriented orthogonally to the primary camera.
 + **Email:** shahab.hoseinaliizade@gmail.com
 + **Telegram:** https://t.me/Shahab_Hoseinalizade
 
-
-** ژخدفشزف
